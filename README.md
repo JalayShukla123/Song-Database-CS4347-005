@@ -31,7 +31,10 @@ Setup Instructions
 
 3. **Running the Application**
    - Open 2 command line prompts.
-   - On the first command line prompt, navigate to the frontend directory: ```cd Song-Database-CS4347-005/app/frontend```
+   - On the first command line prompt, navigate to the frontend directory:
+     ```
+     cd Song-Database-CS4347-005/app/frontend
+     ```
    - On the second command line prompt, navigate to the backend directory ```cd Song-Database-CS4347-005/app/backend```
    - Type ```npm -v``` to check if npm is installed. If installed, it will show the version you have installed. If not installed, run ```npm install```.
    - Type ```npm start``` on both command line prompts to start the frontend and backend servers.
