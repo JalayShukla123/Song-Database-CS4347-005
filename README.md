@@ -20,16 +20,18 @@ Setup Instructions
 ------------------
 
 1. **Clone the Repository to the System**
-   - ```git clone https://github.com/JacksonHoggard/Song-Database-CS4347-005.git```
+   ```
+   git clone https://github.com/JacksonHoggard/Song-Database-CS4347-005.git
+   ```
 
-2. **Set Up the Database**
+3. **Set Up the Database**
    - Open MySQLWorkbench.
    - Run the SQL script to create the database and populate it with the data:
      ```
      source MySQLCreateandPopulate.sql;
      ```
 
-3. **Running the Application**
+4. **Running the Application**
    - Open 2 command line prompts.
    - On the first command line prompt, navigate to the frontend directory:
      ```
